@@ -1,0 +1,35 @@
+MATHS EXAM 2022
+
+
+question_ID: 2
+what is the probablity of getting 6when a dye is thrown
+A.1/6
+B.1/4
+C.2/3
+D.5/9
+
+
+question_ID: 1
+what is the product of 25 X 4
+A.100
+B.200
+C.300
+D.400
+
+
+question_ID: 4
+how many numbers are divisible by 5in the range 1 to 20?
+A.6
+B.4
+C.3
+D.0
+
+
+question_ID: 3
+evaluate: 25 x 4 +5
+A.105
+B.200
+C.8
+D.900
+
+
