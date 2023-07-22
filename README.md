@@ -1,0 +1,10 @@
+# QUESTION_PAPER_GENERATOR
+a software using python to automatically generator MCQ question paper
+
+YOU SHOULD HAVE INSTALLED MYSQL,MSQL.CONNECTOR,TKINTER IN YOUR SYSTEM.
+CREATE A DATABASE NAMED QUESTIONNAIRE IN IN AND A TABLE NAME QUESTION_TABLE_MATHEMATICS WITH COLUMBS QID,QUESTION,A,B,C,D,CORRECT_OPTION.
+1.run the python file QUESTION_PAPER_GENERATOR.py.
+2.start adding questions in the mysql database
+3.generate the question paper.
+
+U CAN CHECK OUT THE WORKING OF THIS SOFTWARE ON : https://youtu.be/rGOE_as0Vqs
